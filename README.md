@@ -1,4 +1,4 @@
 # instagrambootstrapclone
 Simple HTML Instagram clone made with Bootstrap.
 
-https://yagmuracikgoz.github.io/instagram-clone/
+https://yagmurauslu.github.io/instagram-clone/
